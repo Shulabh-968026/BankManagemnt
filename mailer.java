@@ -9,9 +9,9 @@ import javax.mail.internet.MimeMessage;
 public class mailer {  
 public static void send(){ 
 	//String host="localhost";
-final String user="shulabhdixit23498@gmail.com"; 
-final String pass="6350272046";
-final String to="shulabhdixit23498@gmail.com";
+final String user="usermail"; 
+final String pass="******";
+final String to="recivermail";
 String subject="bank information";
 String msg="your new account is open in state bank of india";
 //1st step) Get the session object    
